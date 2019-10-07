@@ -81,3 +81,8 @@ h2.im1 {
 
 	width: 250px;
 }
+.workexp,.edu, .Skills{
+	display: grid;
+	grid-template-columns: 150px  200px;
+	grid-column-gap: 200px;
+}
