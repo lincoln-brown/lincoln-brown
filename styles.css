@@ -1,8 +1,8 @@
-body{
+.maincontainer{
 	display:grid;
 	grid-template-columns: 25% 25% 25% 25%%;
 	grid-row-gap: 40px;
-	grid-column-gap: 70px;
+	grid-column-gap: 45px;
 	font-family: "serif";
 	
 
@@ -85,4 +85,7 @@ h2.im1 {
 	display: grid;
 	grid-template-columns: 150px  200px;
 	grid-column-gap: 200px;
+}
+.Skills{
+grid-row-gap: 500px;
 }
